@@ -2,9 +2,7 @@
   "name": "@opix/sdk",
   "version": "1.0.0",
   "description": "The @opix/sdk package.",
-  "keywords": [
-    "opix"
-  ],
+  "keywords": ["opix"],
   "homepage": "https://github.com/Opix-Team/sdk#readme",
   "bugs": {
     "url": "https://github.com/Opix-Team/sdk/issues"
@@ -16,12 +14,23 @@
   "license": "MIT",
   "author": "ThatBobo",
   "type": "module",
-  "main": "src/index.ts",
+
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+
   "scripts": {
     "test": "vitest",
     "build": "tsc"
   },
-  "dependencies": {
+
+  "devDependencies": {
     "vite": "^8.0.11",
     "vitest": "^4.1.5"
   }
