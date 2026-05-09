@@ -2,7 +2,9 @@
   "name": "@opix/sdk",
   "version": "1.0.0",
   "description": "The @opix/sdk package.",
-  "keywords": ["opix"],
+  "keywords": [
+    "opix"
+  ],
   "homepage": "https://github.com/Opix-Team/sdk#readme",
   "bugs": {
     "url": "https://github.com/Opix-Team/sdk/issues"
