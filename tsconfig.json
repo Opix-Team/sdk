@@ -42,7 +42,7 @@
       "@/*": [
         "./src/*"
       ],
-    "exclude": ["vite.config.ts"]
+    "exclude": ["./vite.config.ts"]
     }
   }
 }
