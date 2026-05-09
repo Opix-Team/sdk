@@ -1,0 +1,23 @@
+{
+  "name": "@opix/sdk",
+  "version": "1.0.0",
+  "description": "The @opix/sdk package.",
+  "keywords": [
+    "opix"
+  ],
+  "homepage": "https://github.com/Opix-Team/sdk#readme",
+  "bugs": {
+    "url": "https://github.com/Opix-Team/sdk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opix-Team/sdk.git"
+  },
+  "license": "MIT",
+  "author": "ThatBobo",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "vitest"
+  }
+}
