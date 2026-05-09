@@ -1,3 +1,3 @@
-console.log("sdk not made yet!");
-export {};
+// src/index.ts
+export { createClient } from "./createClient.js";
 //# sourceMappingURL=index.js.map
