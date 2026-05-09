@@ -1,2 +1,3 @@
 // src/index.ts
-console.log("sdk not made yet!");
+export { createClient } from "./createClient";
+export type { OpixClient } from "./createClient";
