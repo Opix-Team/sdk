@@ -38,12 +38,12 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
-        "paths": {
-      "@/*": [
-        "./src/*"
-      ],
-    "exclude": ["./vite.config.ts"],
-    "include": ["./src"]
+
+    "paths": {
+      "@/*": ["./src/*"]
     }
-  }
+  },
+
+  "include": ["./src"],
+  "exclude": ["./vite.config.ts"]
 }
