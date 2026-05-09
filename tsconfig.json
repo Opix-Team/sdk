@@ -43,7 +43,7 @@
         "./src/*"
       ],
     "exclude": ["./vite.config.ts"],
-    "include": ["src"]
+    "include": ["./src"]
     }
   }
 }
