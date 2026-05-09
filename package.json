@@ -16,7 +16,7 @@
   "license": "MIT",
   "author": "ThatBobo",
   "type": "module",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "vitest"
   }
