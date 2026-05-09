@@ -18,6 +18,7 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "build": "tsc"
   }
 }
