@@ -27,6 +27,10 @@
     }
   },
 
+  "files": [
+    "dist"
+  ],
+
   "scripts": {
     "test": "vitest",
     "build": "tsc"
