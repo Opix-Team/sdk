@@ -1,0 +1,20 @@
+# This file defines code ownership for the Opix SDK.
+# GitHub will automatically request reviews from these owners
+# when relevant files are changed.
+
+# Global owners — these people own the entire repository
+* @ThatBobo @Zifah
+
+# Optional: If you want to split ownership later, here are examples:
+
+# TypeScript source files
+# /src/ @ThatBobo
+
+# Build system and config
+# /tsconfig.json @Zifah
+
+# GitHub workflows
+# /.github/workflows/ @Zifah
+
+# Documentation
+# /README.md @ThatBobo
