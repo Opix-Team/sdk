@@ -41,7 +41,8 @@
         "paths": {
       "@/*": [
         "./src/*"
-      ]
+      ],
+    "exclude": ["vite.config.ts"]
     }
   }
 }
