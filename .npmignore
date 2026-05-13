@@ -1,0 +1,7 @@
+src/
+node_modules/
+.github/
+tsconfig.json
+tsconfig.build.json
+tsconfig.node.json
+vite.config.*
