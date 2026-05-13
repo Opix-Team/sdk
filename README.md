@@ -1,5 +1,6 @@
 # @opix-team/sdk
 
+[![npm version](https://img.shields.io/npm/v/@opix-team/sdk)](https://www.npmjs.com/package/@opix-team/sdk)<br>
 Opix is a realtime invite backend that helps you create, track, and manage invite flows without building any infrastructure.  
 This SDK provides a clean, modern client for interacting with the Opix API.
 
