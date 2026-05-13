@@ -1,10 +1,10 @@
-# @opix/sdk
+# @opix-team/sdk
 
 Opix is a realtime invite backend that helps you create, track, and manage invite flows without building any infrastructure.  
 This SDK provides a clean, modern client for interacting with the Opix API.
 
 ~~~~ts
-import { createClient } from "@opix/sdk";
+import { createClient } from "@opix-team/sdk";
 
 const opix = createClient("client_id", "api_key");
 
@@ -28,7 +28,7 @@ opix.events.on("invite.created", (event) => {
 ## Installation
 
 ~~~~sh
-npm install @opix/sdk
+npm install @opix-team/sdk
 ~~~~
 
 ---
@@ -38,7 +38,7 @@ npm install @opix/sdk
 ### Create a client
 
 ~~~~ts
-import { createClient } from "@opix/sdk";
+import { createClient } from "@opix-team/sdk";
 
 const opix = createClient("client_id", "api_key");
 ~~~~
