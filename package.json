@@ -1,7 +1,7 @@
 {
-  "name": "@opix/sdk",
+  "name": "@opixteam/sdk",
   "version": "1.0.0",
-  "description": "The @opix/sdk package.",
+  "description": "The @opix-team/sdk package.",
   "keywords": [
     "opix"
   ],
