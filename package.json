@@ -41,6 +41,6 @@
     "vitest": "^4.1.6"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.com"
   }
 }
